@@ -1,0 +1,30 @@
+name: "erlymarsh.io"
+description: "Documentation site for Erly Marsh framework"
+
+url: "http://0.0.0.0:4000/"
+baseurl: /erly_marsh
+
+#paginate: 10
+
+#markdown: rdiscount
+#rdiscount:
+#    extensions:
+#      - generate_toc
+
+markdown: redcarpet
+redcarpet:
+    renderer: [smart]
+    extensions: [with_toc_data, fenced_code_blocks, space_after_headers, tables, no_intra_emphasis, autolink]
+
+#Github defaults that can be overwritten
+#highlighter: pygments
+#github: [Repository metadata]
+#Github defaults that cannot be overwritten
+#safe: true
+#lsi: false
+#End Github Defaults
+
+permalink: pretty
+
+gems:
+  - jekyll-sitemap
