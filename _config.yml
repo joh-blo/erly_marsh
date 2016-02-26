@@ -14,7 +14,13 @@ baseurl: /erly_marsh
 markdown: redcarpet
 redcarpet:
     renderer: [smart]
-    extensions: [with_toc_data, fenced_code_blocks, space_after_headers, tables, no_intra_emphasis, autolink]
+    extensions: [with_toc_data,
+    		fenced_code_blocks,
+		space_after_headers,
+		tables,
+		no_intra_emphasis,
+		autolink,
+		highlight]
 
 #Github defaults that can be overwritten
 #highlighter: pygments
