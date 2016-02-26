@@ -11,8 +11,8 @@ baseurl: /erly_marsh
 #    extensions:
 #      - generate_toc
 
-markdown: redcarpet
-redcarpet:
+markdown: kramdown
+kramdown:
     renderer: [smart]
     extensions: [with_toc_data,
     		fenced_code_blocks,
