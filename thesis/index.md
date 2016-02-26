@@ -39,8 +39,7 @@ Institute for Software Technology at Graz University of Technology, Austria
 
 The latest DRAFT version of the *thesis* is available from
 [here]({{ site.url }}/erly_marsh/assets/thesis.pdf)
-(last uploaded to this site: {{ "assets/thesis.pdf" | file_date | date_to_string }}
-).
+(last uploaded to this site: 26 February).
 
 A DRAFT version of the *abstract* is also available
 [here]({{ site.url }}/erly_marsh/assets/abstract.pdf).
