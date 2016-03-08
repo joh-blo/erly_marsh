@@ -29,17 +29,17 @@ Institute for Software Technology at Graz University of Technology, Austria
   <dd>Thesis goes in print</dd>
   <dt><strong>Tuesday 29:th March</strong></dt>
   <dd>Delivery of printed theses</dd>
-  <dt><strong>Tuesday 31:st March</strong></dt>
+  <dt><strong>Thursday 31:st March</strong></dt>
   <dd>Nailing (Spikning), the thesis is made publically available and
   	      accessible</dd>
-  <dt><strong>Tuesday 21:th April</strong></dt>
-  <dd>Dissertation at ITC/2446 </dd>
+  <dt><strong>Thursday 21:th April</strong></dt>
+  <dd>Dissertation at Information Technology Center (Polacksbacken, ITC), room 2446 at 13.15</dd>
 </dl>
 
 
 The latest DRAFT version of the *thesis* is available from
 [here]({{ site.url }}/erly_marsh/assets/thesis.pdf)
-(last uploaded to this site: 26 February).
+(last uploaded to this site: 8 Mar 2016).
 
 A DRAFT version of the *abstract* is also available
 [here]({{ site.url }}/erly_marsh/assets/abstract.pdf).
