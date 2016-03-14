@@ -25,7 +25,7 @@ Institute for Software Technology at Graz University of Technology, Austria
 
 ## Schedule
 <dl>
-  <dt><strong>Friday 11:th March</strong></dt>
+  <dt><strong>Monday 14:th March</strong></dt>
   <dd>Thesis goes in print</dd>
   <dt><strong>Tuesday 29:th March</strong></dt>
   <dd>Delivery of printed theses</dd>
@@ -37,11 +37,11 @@ Institute for Software Technology at Graz University of Technology, Austria
 </dl>
 
 
-The latest DRAFT version of the *thesis* is available from
+The printed version of the *thesis* is available from
 [here]({{ site.url }}/erly_marsh/assets/thesis.pdf)
-(last uploaded to this site: 8 Mar 2016).
+(last uploaded to this site: 14 Mar 2016).
 
-A DRAFT version of the *abstract* is also available
+The *abstract* is also available
 [here]({{ site.url }}/erly_marsh/assets/abstract.pdf).
 
 
